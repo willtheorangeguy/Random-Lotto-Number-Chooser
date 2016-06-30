@@ -1,7 +1,7 @@
 # Random Lotto Number Chooser
 This loto number chooser will automaticly choose random lotto numbers for you.
 
-![Screenshot](https://raw.githubusercontent.com/willtheorangeguy/Random-Lotto-Number-Chooser/master/Screenshot2.)
+![Screenshot](https://raw.githubusercontent.com/willtheorangeguy/Random-Lotto-Number-Chooser/master/Screenshot2.PNG)
 ![Screenshot](https://raw.githubusercontent.com/willtheorangeguy/Random-Lotto-Number-Chooser/master/Screenshot.PNG)
 
 ## Insalation and Use
