@@ -6,11 +6,11 @@ This loto number chooser will automaticly choose random lotto numbers for you.
 
 ## Insalation and Use
 
-### Python Module
-- Run main.py.
+### Runt through the Python Module (IDLE)
+- Run main.py. Wiht IDLE by selecting Open > and the finding the location on your computer where you saved it.
 - The app should open so you can use it.
 
-### cx_Freeze
+### Create a cx_Freeze Executable
 - Run setup.py in cx_Freeze
 - Rune the Windows MSI Installer to create an .exe file.
 - Open the .exe file and get your lotto numbers.
