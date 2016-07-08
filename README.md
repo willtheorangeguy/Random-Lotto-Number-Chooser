@@ -16,10 +16,10 @@ This loto number chooser will automaticly choose random lotto numbers for you.
  C:\Users\YOUR_USERNAME_FOLDER\
 
 - Run the setup.py file with cx_Freeze installed. Using the following command:
-
-'''
+```
 python setup.py bdist_msi
-'''
+```
+
  
 - Then run the Windows MSI installer that can be foundn in a dist sub-directory.
 - The installer should create a executable .exe file for you to play the game through. (If you have issues feel free to contact me on the issues page.
