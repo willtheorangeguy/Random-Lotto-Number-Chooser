@@ -1,0 +1,29 @@
+language: python
+dist: trusty
+
+python:
+  - 2.6
+  - 2.7
+  - 3.1
+  - 3.2
+  - 3.3
+  - 3.4
+  - 3.5
+  - pypy
+
+addons:
+  apt:
+    packages:
+      - libfreetype6-dev
+      - libjpeg8-dev
+      - liblcms2-dev
+      - libtiff5-dev
+      - libwebp-dev
+      - python-tk
+      - tcl8.6-dev
+      - tk8.6-dev
+      - zlib1g-dev
+
+notifications:
+  email: false
+
