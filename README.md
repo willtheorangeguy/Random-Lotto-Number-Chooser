@@ -25,7 +25,13 @@ python setup.py bdist_msi
 
 ## Use Instructions
 - Click the 'Get My Lucky Numbers' button in the bottom left hand corner of the app.
+
+![Screenshot](https://raw.githubusercontent.com/willtheorangeguy/Random-Lotto-Number-Chooser/master/Screenshot2.PNG)
+
 - The app will then generate 6 random numbers to replace the '...' in the top 6 squares. 
+
+![Screenshot](https://raw.githubusercontent.com/willtheorangeguy/Random-Lotto-Number-Chooser/master/Screenshot.PNG)
+
 - Cick the reset button in the bottom right corer to get new numbers.
 
 ## Releases
