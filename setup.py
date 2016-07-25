@@ -8,7 +8,7 @@ opts = { 'include_files' : ['lotto.gif'] , 'includes' : ['re'] }
 
 setup(
     name = 'Lotto' ,
-    version = '1.0' ,
+    version = '1.5' ,
     description = 'Lottery Number Picker' ,
     author = 'Mike McGrath' ,
     options = {'build_exe' : opts } ,
