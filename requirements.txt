@@ -1,4 +1,0 @@
-In order to run this program you will need the following:
-
-- Python 3.5 or higher
-- Tkinter
