@@ -1,4 +1,6 @@
 # Random Lotto Number Chooser
+
+[![Join the chat at https://gitter.im/willtheorangeguy/Random-Lotto-Number-Chooser](https://badges.gitter.im/willtheorangeguy/Random-Lotto-Number-Chooser.svg)](https://gitter.im/willtheorangeguy/Random-Lotto-Number-Chooser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This random lotto nuumber chooser will automatically pick 6 random numbers for you. 
 
 Thanks to Mike McGrath for the idea.
