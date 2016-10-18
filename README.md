@@ -13,8 +13,7 @@ Thanks to Mike McGrath for the idea.
 ### Through the Python Module (IDLE)
 -	Download the Python module if you haven’t already: [Download Link](https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe), and install it,
 -	Extract files from your GitHub Download,
--	Open the lotto.py file in the Python Module (IDLE),
--	Select Run>Run Module, or press F5 in the Edit Window of IDLE,
+-	Double click the lotto.py file in File Explorer,
 -	And the app will open for you to use!
 
 ### Creating a Executable File Through cx_Freeze (Windows Only)
@@ -39,14 +38,18 @@ python setup.py bdist_msi
 - Cick the reset button in the bottom right corer to get new numbers.
 
 ## Releases
-The current release is 1.5. The next release, either 1.6 or 2.0 will hopefully becomming out soon with the following features:
-- (To be dertermined)
+The current release is 1.6. The next release, either 1.7 or 2.0 will hopefully becomming out soon with the following features:
+- Number amount control
+- Number limit
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcomming updates.
 
 
 ## Bugs and Issues
-Who likes bugs? If you’ve found any feel free to let me know on the issues page and I will make sure to fix them in short order, and release those fixes in new releases.
+Who likes bugs? If you’ve found any feel free to let me know on the issues page and I will make sure to fix them in short order, and release those fixes in new releases. 
+
+**Note:** Please check the known issues list below before posting an issue to see if your issue us already on the list.
+- No current know issues
 
 
 ## Maintainer
