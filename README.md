@@ -1,11 +1,16 @@
 # Random Lotto Number Chooser
 
 [![Join the chat at https://gitter.im/willtheorangeguy/Random-Lotto-Number-Chooser](https://badges.gitter.im/willtheorangeguy/Random-Lotto-Number-Chooser.svg)](https://gitter.im/willtheorangeguy/Random-Lotto-Number-Chooser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+![Total Downloads](https://img.shields.io/github/downloads/willtheorangeguy/Random-Lotto-Number-Chooser/total.svg)
+![Release Version](https://img.shields.io/github/release/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
+![Issues](https://img.shields.io/github/issues/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
+![Pull Requests](https://img.shields.io/github/issues-pr/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
+![Contributors](https://img.shields.io/github/contributors/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
+![License](https://img.shields.io/github/license/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
 
 This random lotto nuumber chooser will automatically pick 6 random numbers for you. 
 
-Thanks to Mike McGrath for the idea.
+Thanks to Mike McGrath for the idea and the code.
 
 
 ## Insalation and Operation
