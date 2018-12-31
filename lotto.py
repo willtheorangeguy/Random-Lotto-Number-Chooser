@@ -1,4 +1,8 @@
-﻿# Widgets:
+﻿"""
+(C) 2016- 2019 William Vandergraaf and Mike McGrath. All rights reserved.
+"""
+
+# Widgets:
 from tkinter import *
 window = Tk( )
 img = PhotoImage( file = 'lotto.gif' )
