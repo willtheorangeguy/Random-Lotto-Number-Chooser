@@ -60,4 +60,4 @@ Who likes bugs? If you’ve found any feel free to let me know on the issues pag
 ## Contributors
 - @willtheorangeguy
 
-© 2019 William Vandergraaf
+© 2019 - 2022
