@@ -8,7 +8,7 @@
 ![Contributors](https://img.shields.io/github/contributors/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
 ![License](https://img.shields.io/github/license/willtheorangeguy/Random-Lotto-Number-Chooser.svg)
 
-This random lotto nuumber chooser will automatically pick 6 random numbers for you. 
+This random lotto nuumber chooser will automatically pick 6 random numbers for you. **Now an archived repository!**
 
 Thanks to Mike McGrath for the idea and the code.
 
